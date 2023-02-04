@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash 
 
 # Declare vairable and print it
 name="my first bash viarable"
