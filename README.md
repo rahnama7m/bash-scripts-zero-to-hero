@@ -17,3 +17,4 @@ A collection of examples in Bash scripts.
 11. [example11.sh](Introduction/example11.sh): Run command inside file using backtick (`)
 12. [example12.sh](Introduction/example12.sh): Operators- arithmetic Operators (using expr and let)
 13. [example13.sh](Introduction/example13.sh): Get data from user (input)
+14. [example14.sh](Introduction/example14.sh): String conditions 
