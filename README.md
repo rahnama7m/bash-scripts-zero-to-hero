@@ -12,3 +12,4 @@ A collection of examples in Bash scripts.
 5. [example6.sh](Introduction/example6.sh): Special variables
 5. [example7.sh](Introduction/example7.sh): Special variables - get string and convert to array (by using $@)
 5. [example8.sh](Introduction/example8.sh): Special variables - check if program installed (by using $?)
+5. [example9.sh](Introduction/example9.sh): Declare array and use it 
