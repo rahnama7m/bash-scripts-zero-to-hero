@@ -15,4 +15,4 @@ A collection of examples in Bash scripts.
 9. [example9.sh](Introduction/example9.sh): Arrays- Declare array and use it 
 10. [example10.sh](Introduction/example10.sh): Arrays- create array from return of another command 
 11. [example11.sh](Introduction/example11.sh): Run command inside file using backtick (`)
-
+12. [example12.sh](Introduction/example12.sh): Operators- arithmetic Operators 
