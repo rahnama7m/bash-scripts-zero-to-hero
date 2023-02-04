@@ -1,1 +1,1 @@
-# bash-scripts-zero-to-hero
+A collection of examples in Bash scripts.
