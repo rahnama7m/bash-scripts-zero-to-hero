@@ -1,5 +1,5 @@
 #!/usr/bin/bash 
 
 # remove variable
-First_="hello Bash" 
+First_Var="hello Bash" 
 unset First_Var
