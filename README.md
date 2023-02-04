@@ -22,3 +22,10 @@ A collection of examples in Bash scripts.
 16. [example16.sh](Introduction/example16.sh): Operators- logical operators (-a, &&, -o, ||, !) 
 17. [example17.sh](Introduction/example17.sh): File conditions
 18. [example18.sh](Introduction/example18.sh): Check SUID and GUID in files 
+
+
+
+## Mix Exercises 
+1. [mix-exercise1.sh](MixExercise/mix-exercise1.sh): Install program after some check like directory exists, ownership and etc. 
+  
+  
