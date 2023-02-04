@@ -9,6 +9,10 @@
 # 	division: 			/ 
 
 
-# Sum of two number- for use arithmetic must use backtick and expr:
+# Sum of two number- Using backtick and expr:
 A=`expr 10 + 10`
+echo $A
+
+# division of number-  Using let: 
+let A=A+10
 echo $A
