@@ -2,8 +2,10 @@
 
 # Declare array and use it 
 
-Friends_Names = ("Monica" "Rachel" "Phoebe" "Chandler" "Joey" "Ross")   
 
+Friends_Names = ("Monica" "Rachel" "Phoebe" "Chandler" "Joey" "Ross")   
+# Or
+# Friends_Names = (Monica Rachel Phoebe Chandler Joey Ross)   
 
 # Name of array point to first item in array: 
 echo $Friends_Names
