@@ -16,3 +16,4 @@ A collection of examples in Bash scripts.
 10. [example10.sh](Introduction/example10.sh): Arrays- create array from return of another command 
 11. [example11.sh](Introduction/example11.sh): Run command inside file using backtick (`)
 12. [example12.sh](Introduction/example12.sh): Operators- arithmetic Operators 
+13. [example13.sh](Introduction/example13.sh): Get data from user (input)
