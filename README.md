@@ -9,3 +9,4 @@ A collection of examples in Bash scripts.
 3. [example3.sh](Introduction/example3.sh): Create readonly variable
 4. [example4.sh](Introduction/example4.sh): Raise error and break program
 5. [example5.sh](Introduction/example5.sh): Export vairable as environment vairable
+5. [example6.sh](Introduction/example6.sh): Special variables
