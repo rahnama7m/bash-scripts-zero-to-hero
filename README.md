@@ -21,3 +21,4 @@ A collection of examples in Bash scripts.
 15. [example15.sh](Introduction/example15.sh): Integer conditions
 16. [example16.sh](Introduction/example16.sh): Operators- logical operators (-a, &&, -o, ||, !) 
 17. [example17.sh](Introduction/example17.sh): File conditions
+18. [example18.sh](Introduction/example18.sh): Check SUID and GUID in files 
