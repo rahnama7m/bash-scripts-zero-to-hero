@@ -14,7 +14,7 @@ echo "STRING1 is empty: $?"
 [[ -n STRING1 ]]
 echo "STRING1 is not empty: $?" 
 
-# Both togetherf
+# -z, -n and if statement: 
 if [[ -z "$string" ]]; then
   echo "String is empty"
 elif [[ -n "$string" ]]; then

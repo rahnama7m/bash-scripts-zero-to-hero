@@ -18,3 +18,5 @@ A collection of examples in Bash scripts.
 12. [example12.sh](Introduction/example12.sh): Operators- arithmetic Operators (using expr and let)
 13. [example13.sh](Introduction/example13.sh): Get data from user (input)
 14. [example14.sh](Introduction/example14.sh): String conditions 
+15. [example15.sh](Introduction/example15.sh): Integer conditions
+16. [example16.sh](Introduction/example16.sh): Operators- logical operattors (-a, &&, -o, ||, !) 
