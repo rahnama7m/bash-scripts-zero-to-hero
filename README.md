@@ -10,3 +10,4 @@ A collection of examples in Bash scripts.
 4. [example4.sh](Introduction/example4.sh): Raise error and break program
 5. [example5.sh](Introduction/example5.sh): Export vairable as environment vairable
 5. [example6.sh](Introduction/example6.sh): Special variables
+5. [example7.sh](Introduction/example7.sh): Special variables - get string and convert to array (by using $@)
