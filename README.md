@@ -23,6 +23,7 @@ A collection of examples in Bash scripts.
 17. [example17.sh](Introduction/example17.sh): File conditions
 18. [example18.sh](Introduction/example18.sh): Check SUID and GUID in files 
 19. [example19.sh](Introduction/example19.sh): If statement
+20. [example20.sh](Introduction/example20.sh): Case Block
 
 
 
