@@ -26,6 +26,7 @@ A collection of examples in Bash scripts.
 20. [example20.sh](Introduction/example20.sh): Case Block
 21. [example21.sh](Introduction/example21.sh): Select Loop 
 22. [example22.sh](Introduction/example22.sh): For Loop 
+23. [example23.sh](Introduction/example23.sh): While Loop
 
 
 
