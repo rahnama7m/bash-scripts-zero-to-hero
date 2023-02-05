@@ -31,6 +31,7 @@ A collection of examples in Bash scripts.
 25. [example25.sh](Introduction/example25.sh): Until Loop
 26. [example26.sh](Introduction/example26.sh): Until Loop- more complex example
 27. [example27.sh](Introduction/example27.sh): Loop- break command 
+28. [example28.sh](Introduction/example28.sh): Loop- continue command 
 
 
 
