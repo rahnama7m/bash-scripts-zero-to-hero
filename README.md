@@ -24,6 +24,14 @@ A collection of examples in Bash scripts.
 18. [example18.sh](Introduction/example18.sh): Check SUID and GUID in files 
 19. [example19.sh](Introduction/example19.sh): If statement
 20. [example20.sh](Introduction/example20.sh): Case Block
+21. [example21.sh](Introduction/example21.sh): Select Loop 
+22. [example22.sh](Introduction/example22.sh): For Loop 
+23. [example23.sh](Introduction/example23.sh): While Loop
+24. [example24.sh](Introduction/example24.sh): While Loop- more complex example
+25. [example25.sh](Introduction/example25.sh): Until Loop
+26. [example26.sh](Introduction/example26.sh): Until Loop- more complex example
+27. [example27.sh](Introduction/example27.sh): Loop- break command 
+28. [example28.sh](Introduction/example28.sh): Loop- continue command 
 
 
 
