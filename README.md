@@ -24,6 +24,7 @@ A collection of examples in Bash scripts.
 18. [example18.sh](Introduction/example18.sh): Check SUID and GUID in files 
 19. [example19.sh](Introduction/example19.sh): If statement
 20. [example20.sh](Introduction/example20.sh): Case Block
+21. [example21.sh](Introduction/example21.sh): Select Loop 
 
 
 
