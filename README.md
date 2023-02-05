@@ -1,6 +1,7 @@
 # Bash Scripts, from zero to hero!
 A collection of examples in Bash scripts.
 
+See references of this repo [here](REFERENCES.md). 
 
 ## Introduction
 
