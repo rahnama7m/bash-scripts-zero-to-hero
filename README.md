@@ -38,8 +38,7 @@ See references of this repo [here](REFERENCES.md).
 
 ## Mix Exercises 
 1. [mix-exercise1.sh](MixExercise/mix-exercise1.sh): Install program after some check like directory exists, ownership and etc. 
-  
- 
+2. [mix_exercise2.sh](MixExercise/mix_exercise2.sh): Create menu in terminal and choice opetions
 
 ## One Line Command 
 1. [one-line1.sh](OneLineCommand/one-line1.sh): Get size of file
