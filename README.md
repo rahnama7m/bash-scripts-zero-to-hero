@@ -51,5 +51,5 @@ See references of this repo [here](REFERENCES.md).
 7. [one-line7.sh](OneLineCommand/one-line7.sh): Find and replace first occurrence with:  ${var/find/replace}
 8. [one-line8.sh](OneLineCommand/one-line8.sh): Find and replace all occurrence with:  ${var//find/replace}
 9. [one-line9.sh](OneLineCommand/one-line9.sh): Extract a substring from a string
-
+10. [one-line10.sh](OneLineCommand/one-line10.sh): Change upper case to lower case and vice versa
 
