@@ -43,5 +43,5 @@ See references of this repo [here](REFERENCES.md).
 
 ## One Line Command 
 1. [one-line1.sh](OneLineCommand/one-line1.sh): Get size of file
-  
-  
+2. [one-line2.sh](OneLineCommand/one-line2.sh): Extract file name from the path
+
