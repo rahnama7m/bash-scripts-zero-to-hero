@@ -41,7 +41,7 @@ See references of this repo [here](REFERENCES.md).
 32. [example32.sh](Introduction/example32.sh): Redirect- Send the contents of a file to the stdin of a command
 33. [example33.sh](Introduction/example33.sh): Redirect- Complex redirection
 34. [example34.sh](Introduction/example34.sh): Redirect- Open custom file descriptor 
-
+35. [example35.sh](Introduction/example35.sh): Redirect- Open a file for read and write with fd
 
 ## Mix Exercises 
 
