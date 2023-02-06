@@ -39,6 +39,8 @@ See references of this repo [here](REFERENCES.md).
 30. [example30.sh](Introduction/example30.sh): Redirect- Appends to the file
 31. [example31.sh](Introduction/example31.sh): Redirect- Discard both stdout and stderr
 32. [example32.sh](Introduction/example32.sh): Redirect- Send the contents of a file to the stdin of a command
+33. [example33.sh](Introduction/example33.sh): Redirect- Complex redirection
+
 
 ## Mix Exercises 
 
