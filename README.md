@@ -46,3 +46,5 @@ See references of this repo [here](REFERENCES.md).
 2. [one-line2.sh](OneLineCommand/one-line2.sh): Extract file name from the path
 3. [one-line3.sh](OneLineCommand/one-line3.sh): Generate the alphabet from a to z 
 4. [one-line4.sh](OneLineCommand/one-line4.sh): Genearte the alaphbet from a to z without space
+5. [one-line5.sh](OneLineCommand/one-line5.sh): Pading numbers with leading zero 
+
