@@ -1,40 +1,38 @@
 #!/usr/bin/bash 
 
 # Install program after some check for files, ownership and etc. 
-set –e 
+set -e 
 
-if [ $(whoami != "root") ]; then
+if [ $(whoami) != "root" ]; then
 	echo " Current user is not root."
 	false
 fi
 
-
-if [ $(! –d ./x)]; then
-	echo "Directory is not exist."
-	false
+if [ ! -d "./source" ]; then
+  echo "./source does not exist."
+  false
 fi
 
-
-if [ $(! –f ./x/test.conf)]; then
-	echo "test.conf is n't file"
-	false
+if [ ! -f "./source/test.conf" ]; then
+  echo "./source/test.conf is n't file"
+  false
 fi
 
-if [ $(! -O ./x/test.conf)]; then
-	echo "You are n't owner"
-	false
+if [ ! -O "./source/test.conf" ]; then
+  echo "./source/test.conf You are n't owner"
+  false
 fi
 
-if [ $(! -r ./x/test.conf)]; then
-	echo "File is n't readble"
-	false
+if [ ! -r "./source/test.conf" ]; then
+  echo "./source/test.conf is n't readble"
+  false
 fi
 
-
-if [ $(! -s ./x/test.conf)]; then
-	echo "File is n't empty"
-	false
+if [ ! -s "./source/test.conf" ]; then
+  echo "./source/test.conf  is n't empty"
+  false
 fi
+
 
 
 echo "Installing…" 
