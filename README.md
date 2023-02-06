@@ -40,7 +40,7 @@ See references of this repo [here](REFERENCES.md).
 1. [mix_exercise1.sh](MixExercise/mix_exercise1.sh): Install program after some check like directory exists, ownership and etc. 
 2. [mix_exercise2.sh](MixExercise/mix_exercise2.sh): Create menu in terminal and choice opetions
 3. [mix_exercise3.sh](MixExercise/mix_exercise3.sh): Read a file line by line
-
+4. [mix_exercise4.sh](MixExercise/mix_exercise4.sh): Read the first three columns/fields from a file into variables
 
 ## One Line Command 
 1. [one-line1.sh](OneLineCommand/one-line1.sh): Get size of file
