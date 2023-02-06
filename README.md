@@ -52,6 +52,7 @@ See references of this repo [here](REFERENCES.md).
 2. [mix_exercise2.sh](MixExercise/mix_exercise2.sh): Create menu in terminal and choice opetions
 3. [mix_exercise3.sh](MixExercise/mix_exercise3.sh): Read a file line by line
 4. [mix_exercise4.sh](MixExercise/mix_exercise4.sh): Read the first three columns/fields from a file into variables
+5. [mix_exercise5.sh](MixExercise/mix_exercise5.sh): Read first line of file and put it into variable using redirection
 
 
 ## One Line Command 
