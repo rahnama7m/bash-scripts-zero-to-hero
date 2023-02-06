@@ -42,6 +42,9 @@ See references of this repo [here](REFERENCES.md).
 33. [example33.sh](Introduction/example33.sh): Redirect- Complex redirection
 34. [example34.sh](Introduction/example34.sh): Redirect- Open custom file descriptor 
 35. [example35.sh](Introduction/example35.sh): Redirect- Open a file for read and write with fd
+36. [example36.sh](Introduction/example36.sh): Redirect- List all file descriptors
+
+
 
 ## Mix Exercises 
 
