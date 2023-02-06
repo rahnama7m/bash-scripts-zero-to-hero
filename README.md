@@ -36,6 +36,7 @@ See references of this repo [here](REFERENCES.md).
 27. [example27.sh](Introduction/example27.sh): Loop- break command 
 28. [example28.sh](Introduction/example28.sh): Loop- continue command 
 29. [example29.sh](Introduction/example29.sh): Redirect- Introduction and simple commands
+29. [example29.sh](Introduction/example29.sh): Redirect- Appends to the file
 
 
 ## Mix Exercises 
