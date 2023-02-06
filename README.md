@@ -49,3 +49,6 @@ See references of this repo [here](REFERENCES.md).
 5. [one-line5.sh](OneLineCommand/one-line5.sh): Pading numbers with leading zero 
 6. [one-line6.sh](OneLineCommand/one-line6.sh): Combine two set of strings
 7. [one-line7.sh](OneLineCommand/one-line7.sh): Find and replace first occurrence with:  ${var/find/replace}
+8. [one-line8.sh](OneLineCommand/one-line8.sh): Find and replace all occurrence with:  ${var//find/replace}
+
+
