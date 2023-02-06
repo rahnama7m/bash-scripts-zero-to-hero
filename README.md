@@ -1,7 +1,9 @@
 # Bash Scripts, from zero to hero!
+
 A collection of examples in Bash scripts.
 
 See references of this repo [here](REFERENCES.md). 
+
 
 ## Introduction
 
@@ -33,15 +35,19 @@ See references of this repo [here](REFERENCES.md).
 26. [example26.sh](Introduction/example26.sh): Until Loop- more complex example
 27. [example27.sh](Introduction/example27.sh): Loop- break command 
 28. [example28.sh](Introduction/example28.sh): Loop- continue command 
-
+29. [example29.sh](Introduction/example29.sh): Redirect- Introduction and simple commands
 
 
 ## Mix Exercises 
-1. [mix-exercise1.sh](MixExercise/mix-exercise1.sh): Install program after some check like directory exists, ownership and etc. 
-  
- 
+
+1. [mix_exercise1.sh](MixExercise/mix_exercise1.sh): Install program after some check like directory exists, ownership and etc. 
+2. [mix_exercise2.sh](MixExercise/mix_exercise2.sh): Create menu in terminal and choice opetions
+3. [mix_exercise3.sh](MixExercise/mix_exercise3.sh): Read a file line by line
+4. [mix_exercise4.sh](MixExercise/mix_exercise4.sh): Read the first three columns/fields from a file into variables
+
 
 ## One Line Command 
+
 1. [one-line1.sh](OneLineCommand/one-line1.sh): Get size of file
 2. [one-line2.sh](OneLineCommand/one-line2.sh): Extract file name from the path
 3. [one-line3.sh](OneLineCommand/one-line3.sh): Generate the alphabet from a to z 
