@@ -50,5 +50,6 @@ See references of this repo [here](REFERENCES.md).
 6. [one-line6.sh](OneLineCommand/one-line6.sh): Combine two set of strings
 7. [one-line7.sh](OneLineCommand/one-line7.sh): Find and replace first occurrence with:  ${var/find/replace}
 8. [one-line8.sh](OneLineCommand/one-line8.sh): Find and replace all occurrence with:  ${var//find/replace}
+9. [one-line9.sh](OneLineCommand/one-line9.sh): Extract a substring from a string
 
 
