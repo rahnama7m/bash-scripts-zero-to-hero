@@ -3,10 +3,10 @@
 # Operators- arithmetic Operators
 
 # Other arithmetic: 
-# 	Addition: 			+
+# 	Addition: 		+
 # 	subtraction: 		-
 # 	multiplication: 	* 	(Must use \ before *)
-# 	division: 			/ 
+# 	division: 		/ 
 
 
 # Sum of two number- Using backtick and expr:

@@ -5,7 +5,7 @@
 	
 
 while true; do 
-	read - "Enter your name: " NAME
+	read -p "Enter your name: " NAME
 	echo "Hello $NAME"
 done 
 

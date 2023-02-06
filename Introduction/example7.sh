@@ -1,6 +1,6 @@
 #!/usr/bin/bash 
 
-# Get string from input and convert to array
+# Get string from arguments and convert to array
 # By using S@ (special variable) 
 
 echo "All string together: $@" 

@@ -4,13 +4,13 @@
 
 
 # For through array: 
-Friends_Names_Array = ("Monica" "Rachel" "Phoebe" "Chandler" "Joey" "Ross")   
+Friends_Names_Array=("Monica" "Rachel" "Phoebe" "Chandler" "Joey" "Ross")   
 for name in ${Friends_Names[@]}; do
 	echo $name
 done
 
 # For through string: 
-Friends_Names_String = "Monica Rachel Phoebe Chandler Joey Ross" 
+Friends_Names_String="Monica Rachel Phoebe Chandler Joey Ross" 
 for name in $Friends_Names_String; do
 	echo $name
 done

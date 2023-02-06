@@ -6,7 +6,7 @@ A=100
 if [ $A -gt 100 ]; then 
 	echo "a is greater than 100" 
 	
-elif [ $A -eq 100 ];; then 
+elif [ $A -eq 100 ]; then 
 	echo "a is equal 100" 
 	
 else
