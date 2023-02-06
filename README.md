@@ -39,4 +39,17 @@ See references of this repo [here](REFERENCES.md).
 ## Mix Exercises 
 1. [mix-exercise1.sh](MixExercise/mix-exercise1.sh): Install program after some check like directory exists, ownership and etc. 
   
-  
+ 
+
+## One Line Command 
+1. [one-line1.sh](OneLineCommand/one-line1.sh): Get size of file
+2. [one-line2.sh](OneLineCommand/one-line2.sh): Extract file name from the path
+3. [one-line3.sh](OneLineCommand/one-line3.sh): Generate the alphabet from a to z 
+4. [one-line4.sh](OneLineCommand/one-line4.sh): Genearte the alaphbet from a to z without space
+5. [one-line5.sh](OneLineCommand/one-line5.sh): Pading numbers with leading zero 
+6. [one-line6.sh](OneLineCommand/one-line6.sh): Combine two set of strings
+7. [one-line7.sh](OneLineCommand/one-line7.sh): Find and replace first occurrence with:  ${var/find/replace}
+8. [one-line8.sh](OneLineCommand/one-line8.sh): Find and replace all occurrence with:  ${var//find/replace}
+9. [one-line9.sh](OneLineCommand/one-line9.sh): Extract a substring from a string
+10. [one-line10.sh](OneLineCommand/one-line10.sh): Change upper case to lower case and vice versa
+
