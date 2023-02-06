@@ -4,7 +4,7 @@
 
 # Break: exit from loop 
 RESULT=0
-while true: 
+while true; do
 	read -p "Enter number: " NUMBER
 	if [[ $NUMBER == "0" ]]; then 
 		break 

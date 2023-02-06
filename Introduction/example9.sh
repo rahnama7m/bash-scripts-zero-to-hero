@@ -3,7 +3,7 @@
 # Declare array and use it 
 
 
-Friends_Names = ("Monica" "Rachel" "Phoebe" "Chandler" "Joey" "Ross")   
+Friends_Names=("Monica" "Rachel" "Phoebe" "Chandler" "Joey" "Ross")   
 # Or
 # Friends_Names = (Monica Rachel Phoebe Chandler Joey Ross)   
 
@@ -14,7 +14,7 @@ echo $Friends_Names
 echo ${Friends_Names[1]}
 
 # Change value:  
-Friends_Names[4] = "Joey doesn't share food!"
+Friends_Names[4]="Joey doesn't share food!"
 
 # Print all items in array: 
 echo ${Friends_Names[@]}

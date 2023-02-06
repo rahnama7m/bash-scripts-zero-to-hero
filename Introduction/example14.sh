@@ -8,19 +8,17 @@ STRING2="this is string two"
 
 # Check if empty string
 [[ -z STRING1 ]]
-echo "STRING1 is empty: $?" 
+echo "[[ -z STRING1 ]]: $?" 
 
 # Check if not empty string
 [[ -n STRING1 ]]
-echo "STRING1 is not empty: $?" 
+echo "[[ -n STRING1 ]]: $?" 
 
 # -z, -n and if statement: 
-if [[ -z "$string" ]]; then
+if [[ !(-z "$string") ]]; then
   echo "String is empty"
-elif [[ -n "$string" ]]; then
-  echo "String is not empty"
 else
-  echo "This never happens"
+  echo "String is not empty"
 fi
 
 # Check if two string equal

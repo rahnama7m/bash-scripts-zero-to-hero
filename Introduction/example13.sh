@@ -3,9 +3,9 @@
 # Get data from user (input)
 
 # Get A from user
-read A -p "Input A: "
+read -p "Input A: " A
 echo $A
 
 # Get B from user
-read B -p "Input B: "
+read -p "Input B: " B 
 echo $B

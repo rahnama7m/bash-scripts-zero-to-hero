@@ -4,7 +4,7 @@
 
 	
 X=1
-while [[ $X -ne 0]]; do
-	read - "Enter your name: " NAME
+while [[ $X -ne 0 ]]; do
+	read -p "Enter your name: " NAME
 	echo "Hello $NAME"
 done 

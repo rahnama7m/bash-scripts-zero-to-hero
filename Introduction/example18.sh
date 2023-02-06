@@ -4,9 +4,9 @@
 	
 # Check SUID 
 
-[[ -u test.sh ]]
-Echo $?
+[[ -u example1.sh ]]
+echo $?
 
 # Check GUID 
-[[ -g test.sh ]]
-Echo $?
+[[ -g example1.sh ]]
+echo $?
