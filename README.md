@@ -36,6 +36,14 @@ See references of this repo [here](REFERENCES.md).
 27. [example27.sh](Introduction/example27.sh): Loop- break command 
 28. [example28.sh](Introduction/example28.sh): Loop- continue command 
 29. [example29.sh](Introduction/example29.sh): Redirect- Introduction and simple commands
+30. [example30.sh](Introduction/example30.sh): Redirect- Appends to the file
+31. [example31.sh](Introduction/example31.sh): Redirect- Discard both stdout and stderr
+32. [example32.sh](Introduction/example32.sh): Redirect- Send the contents of a file to the stdin of a command
+33. [example33.sh](Introduction/example33.sh): Redirect- Complex redirection
+34. [example34.sh](Introduction/example34.sh): Redirect- Open custom file descriptor 
+35. [example35.sh](Introduction/example35.sh): Redirect- Open a file for read and write with fd
+36. [example36.sh](Introduction/example36.sh): Redirect- List all file descriptors
+37. [example37.sh](Introduction/example37.sh): Redirect- tee and pip and pip&
 
 
 ## Mix Exercises 
