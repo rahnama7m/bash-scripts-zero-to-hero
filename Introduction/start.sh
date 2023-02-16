@@ -2,18 +2,17 @@
 
 # this script show and run your selected example
 #sleep 10
-#set alias for simple used  training bash
-alias starttraining='~/Training/GitHub/bash-scripts-zero-to-hero/Introduction/start.sh'
-#~/Training/GitHub/bash-scripts-zero-to-hero/Introduction/start.sh
 set -e
-cd ~/Training/GitHub/bash-scripts-zero-to-hero/Introduction/
-clear
-echo -e ------------------------------------------------ \\n ----- \\t Hi ----------------
-echo -e this script show and run your selected example \\n Please Select Number of your example to show code and run...
+C=`cd $pwd`
+
+echo -e This script show and run your selected example 
+echo -e Please Select Number of your example to show code and run...
 #ll | cut -d " " -f 12 | grep ex | cut -d "e" -f 3 | cut -d "." -f 1 | sort
+echo -e List of current codes: 
 ls
+
+echo -e Select your option: 
 List=$(seq 1 1 40)
-echo the list is: $List
 select OPTION  in  $List
 #$(ls);
 	do
@@ -21,15 +20,15 @@ select OPTION  in  $List
 	File=example$OPTION".sh"
 	echo -e you select file: $File
 	echo -----------------------------------------------------------------------------------
-	echo "---------code is : -----"
+	echo "------------cat $File:"
+	echo ""
+	echo ""
 	cat $File
-	echo "---------open file in geany : -----"
-#open file in geany editor
-	geany $File
-	echo "------------please press any key to run code-----"	
-	read
-	echo "------------run result-----"
+	echo ""
+	echo ""
+	echo "------------run $File:"
 	./$File
-	echo "------------please press any key-----"
+	echo ""
+	echo "------------please press any to select again.."
 	read
 done
