@@ -68,3 +68,13 @@ See references of this repo [here](REFERENCES.md).
 9. [one-line9.sh](OneLineCommand/one-line9.sh): Extract a substring from a string
 10. [one-line10.sh](OneLineCommand/one-line10.sh): Change upper case to lower case and vice versa
 
+
+## External Resources 
+
+1. [Bash Reference Manual][1]: A brief description of the features that are present in the Bash shell (version 5.2, 19 September 2022)
+
+ [1]: https://www.gnu.org/software/bash/manual/bash.html
+
+
+
+
