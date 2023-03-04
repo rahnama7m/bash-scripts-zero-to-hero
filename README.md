@@ -58,6 +58,7 @@ See references of this repo [here](REFERENCES.md).
 3. [mix_exercise3.sh](MixExercise/mix_exercise3.sh): Read a file line by line
 4. [mix_exercise4.sh](MixExercise/mix_exercise4.sh): Read the first three columns/fields from a file into variables
 5. [mix_exercise5.sh](MixExercise/mix_exercise5.sh): Read first line of file and put it into variable using redirection
+5. [mix_exercise6.sh](MixExercise/mix_exercise6.sh): Create directory if not exist
 
 
 ## One Line Command 
