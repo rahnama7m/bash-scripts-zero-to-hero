@@ -46,6 +46,7 @@ See references of this repo [here](REFERENCES.md).
 37. [example37.sh](Introduction/example37.sh): Redirect- tee and pip and pip&
 38. [example38.sh](Introduction/example38.sh): Get argument from terminal 
 39. [example39.sh](Introduction/example39.sh): Function- Create functions and call it
+40. [example40.sh](Introduction/example40.sh): Function- Define and call function for calculate rectangle area 
 
 
 ## Mix Exercises 
