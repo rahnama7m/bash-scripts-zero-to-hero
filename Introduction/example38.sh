@@ -1,10 +1,10 @@
 #!/usr/bin/bash 
 
-# Define function 
-Rectangle_Area() {
-	area=$(($1 * $2))
-	echo "Rectangle area is: $area"
-}
 
-# Call  function
-Rectangle_Area 30 15
+# Get argument from terminal 
+echo "Count of arguments: $#"
+echo "1st argument is: $1"
+echo "2nd argument is: $2"
+
+
+

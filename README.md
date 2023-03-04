@@ -44,7 +44,7 @@ See references of this repo [here](REFERENCES.md).
 35. [example35.sh](Introduction/example35.sh): Redirect- Open a file for read and write with fd
 36. [example36.sh](Introduction/example36.sh): Redirect- List all file descriptors
 37. [example37.sh](Introduction/example37.sh): Redirect- tee and pip and pip&
-38. [example38.sh](Introduction/example38.sh): Function- define and call function for calculate rectangle area 
+38. [example38.sh](Introduction/example38.sh): Get argument from terminal 
 
 ## Mix Exercises 
 
