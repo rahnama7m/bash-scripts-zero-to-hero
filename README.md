@@ -44,7 +44,12 @@ See references of this repo [here](REFERENCES.md).
 35. [example35.sh](Introduction/example35.sh): Redirect- Open a file for read and write with fd
 36. [example36.sh](Introduction/example36.sh): Redirect- List all file descriptors
 37. [example37.sh](Introduction/example37.sh): Redirect- tee and pip and pip&
-38. [example38.sh](Introduction/example38.sh): Function- define and call function for calculate rectangle area 
+38. [example38.sh](Introduction/example38.sh): Get argument from terminal 
+39. [example39.sh](Introduction/example39.sh): Function- Create functions and call it
+40. [example40.sh](Introduction/example40.sh): Function- Define and call function for calculate rectangle area 
+41. [example41.sh](Introduction/example41.sh): Function- Get Return Value from Function
+
+
 
 ## Mix Exercises 
 
@@ -53,6 +58,7 @@ See references of this repo [here](REFERENCES.md).
 3. [mix_exercise3.sh](MixExercise/mix_exercise3.sh): Read a file line by line
 4. [mix_exercise4.sh](MixExercise/mix_exercise4.sh): Read the first three columns/fields from a file into variables
 5. [mix_exercise5.sh](MixExercise/mix_exercise5.sh): Read first line of file and put it into variable using redirection
+6. [mix_exercise6.sh](MixExercise/mix_exercise6.sh): Create directory if not exist
 
 
 ## One Line Command 
