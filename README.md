@@ -47,6 +47,8 @@ See references of this repo [here](REFERENCES.md).
 38. [example38.sh](Introduction/example38.sh): Get argument from terminal 
 39. [example39.sh](Introduction/example39.sh): Function- Create functions and call it
 40. [example40.sh](Introduction/example40.sh): Function- Define and call function for calculate rectangle area 
+41. [example41.sh](Introduction/example41.sh): Function- Get Return Value from Function
+
 
 
 ## Mix Exercises 
