@@ -49,6 +49,7 @@ See references of this repo [here](REFERENCES.md).
 40. [example40.sh](Introduction/example40.sh): Function- Define and call function for calculate rectangle area 
 41. [example41.sh](Introduction/example41.sh): Function- Get Return Value from Function
 42. [example42.sh](Introduction/example42.sh): Working with date
+43. [example43.sh](Introduction/example43.sh): Sleep Command
 
 
 ## Mix Exercises 
