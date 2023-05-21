@@ -44,6 +44,12 @@ See references of this repo [here](REFERENCES.md).
 35. [example35.sh](Introduction/example35.sh): Redirect- Open a file for read and write with fd
 36. [example36.sh](Introduction/example36.sh): Redirect- List all file descriptors
 37. [example37.sh](Introduction/example37.sh): Redirect- tee and pip and pip&
+38. [example38.sh](Introduction/example38.sh): Get argument from terminal 
+39. [example39.sh](Introduction/example39.sh): Function- Create functions and call it
+40. [example40.sh](Introduction/example40.sh): Function- Define and call function for calculate rectangle area 
+41. [example41.sh](Introduction/example41.sh): Function- Get Return Value from Function
+42. [example42.sh](Introduction/example42.sh): Working with date
+43. [example43.sh](Introduction/example43.sh): Sleep Command
 
 
 ## Mix Exercises 
@@ -55,6 +61,8 @@ See references of this repo [here](REFERENCES.md).
 5. [mix_exercise5.sh](MixExercise/mix_exercise5.sh): Read first line of file and put it into variable using redirection
 6. [mix_exercise6.sh](MixExercise/mix_exercise6.sh): Create directory if not exist
 7. [mix_exercise7.sh](MixExercise/mix_exercise7.sh): 4 arthimetrics operators
+
+
 
 
 ## One Line Command 
@@ -69,4 +77,14 @@ See references of this repo [here](REFERENCES.md).
 8. [one-line8.sh](OneLineCommand/one-line8.sh): Find and replace all occurrence with:  ${var//find/replace}
 9. [one-line9.sh](OneLineCommand/one-line9.sh): Extract a substring from a string
 10. [one-line10.sh](OneLineCommand/one-line10.sh): Change upper case to lower case and vice versa
+
+
+## External Resources 
+
+1. [Bash Reference Manual][1]: A brief description of the features that are present in the Bash shell (version 5.2, 19 September 2022)
+
+ [1]: https://www.gnu.org/software/bash/manual/bash.html
+
+
+
 
