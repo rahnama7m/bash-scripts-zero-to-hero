@@ -60,6 +60,9 @@ See references of this repo [here](REFERENCES.md).
 4. [mix_exercise4.sh](MixExercise/mix_exercise4.sh): Read the first three columns/fields from a file into variables
 5. [mix_exercise5.sh](MixExercise/mix_exercise5.sh): Read first line of file and put it into variable using redirection
 6. [mix_exercise6.sh](MixExercise/mix_exercise6.sh): Create directory if not exist
+7. [mix_exercise7.sh](MixExercise/mix_exercise7.sh): 4 arthimetrics operators
+
+
 
 
 ## One Line Command 
