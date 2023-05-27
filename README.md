@@ -61,7 +61,7 @@ See references of this repo [here](REFERENCES.md).
 5. [mix_exercise5.sh](MixExercise/mix_exercise5.sh): Read first line of file and put it into variable using redirection
 6. [mix_exercise6.sh](MixExercise/mix_exercise6.sh): Create directory if not exist
 7. [mix_exercise7.sh](MixExercise/mix_exercise7.sh): 4 arthimetrics operators
-
+8. [mix_exercise8.sh](MixExercise/mix_exercise8.sh): Factorial calculator
 
 
 
