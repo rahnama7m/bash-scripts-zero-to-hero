@@ -63,7 +63,7 @@ See references of this repo [here](REFERENCES.md).
 7. [mix_exercise7.sh](MixExercise/mix_exercise7.sh): 4 arthimetrics operators
 8. [mix_exercise8.sh](MixExercise/mix_exercise8.sh): Factorial calculator
 9. [mix_exercise9.sh](MixExercise/mix_exercise9.sh): Lower case string 
-
+10. [mix_exercise10.sh](MixExercise/mix_exercise10.sh): Upper case string 
 
 ## One Line Command 
 
