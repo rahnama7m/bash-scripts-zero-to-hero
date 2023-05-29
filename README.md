@@ -62,7 +62,7 @@ See references of this repo [here](REFERENCES.md).
 6. [mix_exercise6.sh](MixExercise/mix_exercise6.sh): Create directory if not exist
 7. [mix_exercise7.sh](MixExercise/mix_exercise7.sh): 4 arthimetrics operators
 8. [mix_exercise8.sh](MixExercise/mix_exercise8.sh): Factorial calculator
-
+9. [mix_exercise9.sh](MixExercise/mix_exercise9.sh): Lower case string 
 
 
 ## One Line Command 
